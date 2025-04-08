@@ -7,6 +7,7 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 import com.exceptions.BadFeedbackException;
+import com.exceptions.NoCoffyException;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -2,6 +2,7 @@ package com.exceptions.lab;
 import java.util.List;
 
 import com.exceptions.BadFeedbackException;
+import com.exceptions.NoCoffyException;
 
 public class ClassCoffyShop implements CoffeeShop {
 

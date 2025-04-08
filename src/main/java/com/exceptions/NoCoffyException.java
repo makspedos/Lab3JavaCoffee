@@ -1,4 +1,4 @@
-package com.exceptions.lab;
+package com.exceptions;
 
 public class NoCoffyException extends Exception {
     public NoCoffyException(String message){
